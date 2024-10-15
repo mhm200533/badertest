@@ -28,4 +28,3 @@ if (isset($uploaded_file) && file_exists($uploaded_file)) {
     echo "<p>Error: File not found or not uploaded correctly.</p>";
 }
 ?>
-
